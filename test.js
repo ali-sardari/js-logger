@@ -1,6 +1,7 @@
-const logger = require("./logger")
+const logger = require("./logger");
 
-logger.i("INFO")
-logger.w("WARNING")
-logger.e("ERROR")
-logger.d("DEBUG")
+logger.i("INFO");
+logger.w("WARNING");
+logger.e("ERROR");
+logger.d("DEBUG");
+logger.trace("TRACE");
