@@ -25,3 +25,6 @@ logger.w('Warning message');
 logger.e('Error message');
 ````
 
+## Output
+![Logger](https://github.com/ali-sardari/logger/blob/master/demo/output.jpg)
+
