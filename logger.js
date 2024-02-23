@@ -1,4 +1,4 @@
-const colors = require("colors");
+const colors = require("./lib/colors");
 
 class Logger {
     constructor(tag = "LOGGER") {
@@ -62,3 +62,6 @@ class Logger {
 }
 
 module.exports = new Logger();
+
+// const logger = new Logger();
+// export default logger;
