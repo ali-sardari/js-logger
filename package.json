@@ -1,10 +1,16 @@
 {
   "name": "x-logify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A feature-rich and colorful logging utility for Node.js applications. Simplify debugging, improve log readability, and enhance your development experience with different log levels, including trace, debug, info, warn, and error. Powered by ANSI color codes for a visually appealing console output.",
-  "main": "logger.js",
+  "main": "lib/logger.js",
   "author": "Ali Sardari",
   "license": "MIT",
+  "homepage": "https://github.com/ali-sardari/js-logger",
+  "bugs": "https://github.com/ali-sardari/js-logger/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ali-sardari/js-logger"
+  },
   "scripts": {
     "test": "node test.js"
   },
@@ -12,10 +18,6 @@
     "logger",
     "logging",
     "utility",
-    "debugging",
-    "node.js",
-    "react.js"
-  ],
-  "dependencies": {
-  }
+    "debugging"
+  ]
 }

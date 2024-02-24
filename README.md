@@ -18,13 +18,13 @@ npm install x-logify
 const logger = require("x-logify");
 
 // Log messages with different levels
-logger.trace('This is a trace message');
 logger.d('Debugging information');
 logger.i('Informational message');
 logger.w('Warning message');
 logger.e('Error message');
+logger.trace('This is a trace message');
 ````
 
 ## Output
-![Logger](https://github.com/ali-sardari/js-logger/blob/master/demo/output.jpg)
+![Logger](https://github.com/ali-sardari/js-logger/blob/master/screenshots/demo.jpg)
 
