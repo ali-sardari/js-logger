@@ -1,6 +1,6 @@
 {
   "name": "x-logify",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "A feature-rich and colorful logging utility for Node.js applications. Simplify debugging, improve log readability, and enhance your development experience with different log levels, including trace, debug, info, warn, and error. Powered by ANSI color codes for a visually appealing console output.",
   "main": "lib/logger.js",
   "author": "Ali Sardari",
